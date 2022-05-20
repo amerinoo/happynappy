@@ -1,0 +1,3 @@
+button{
+  @apply py-16 bg-slate-500 text-white text-5xl text-cyan-100 font-bold;
+}
